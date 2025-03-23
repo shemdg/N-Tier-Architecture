@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\PatientManagementSystem\DTO\bin\Debug\DTO.dll.config
+C:\Users\Admin\source\repos\PatientManagementSystem\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\source\repos\PatientManagementSystem\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\source\repos\PatientManagementSystem\DTO\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\PatientManagementSystem\DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\PatientManagementSystem\DTO\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\source\repos\PatientManagementSystem\DTO\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\PatientManagementSystem\DTO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\PatientManagementSystem\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\PatientManagementSystem\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PatientManagementSystem\DTO\obj\Debug\DTO.csproj.Up2Date
+C:\Users\Admin\source\repos\PatientManagementSystem\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\source\repos\PatientManagementSystem\DTO\obj\Debug\DTO.pdb

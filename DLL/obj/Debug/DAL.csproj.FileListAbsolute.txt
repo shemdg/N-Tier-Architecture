@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\PatientManagementSystem\DLL\bin\Debug\DLL.dll
+C:\Users\Admin\source\repos\PatientManagementSystem\DLL\bin\Debug\DLL.pdb
+C:\Users\Admin\source\repos\PatientManagementSystem\DLL\bin\Debug\DTO.dll
+C:\Users\Admin\source\repos\PatientManagementSystem\DLL\bin\Debug\DTO.pdb
+C:\Users\Admin\source\repos\PatientManagementSystem\DLL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\PatientManagementSystem\DLL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PatientManagementSystem\DLL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Admin\source\repos\PatientManagementSystem\DLL\obj\Debug\DLL.dll
+C:\Users\Admin\source\repos\PatientManagementSystem\DLL\obj\Debug\DLL.pdb

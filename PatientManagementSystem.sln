@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatientManagementSystem", "PatientManagementSystem\PatientManagementSystem.csproj", "{53DC5043-048D-44FA-8160-6078960C23B3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BFC8E914-EEF9-41D1-8243-12672A10CACE} = {BFC8E914-EEF9-41D1-8243-12672A10CACE}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{B34CD656-2FC0-48BA-B815-5D0CB8C2A618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLL", "DLL\DLL.csproj", "{BFC8E914-EEF9-41D1-8243-12672A10CACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{F265DDA5-3CFB-4A9F-9A32-FA417E132E1D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Documents\SQL Server Management Studio\Patient.sql = ..\..\..\Documents\SQL Server Management Studio\Patient.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53DC5043-048D-44FA-8160-6078960C23B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53DC5043-048D-44FA-8160-6078960C23B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53DC5043-048D-44FA-8160-6078960C23B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53DC5043-048D-44FA-8160-6078960C23B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B34CD656-2FC0-48BA-B815-5D0CB8C2A618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34CD656-2FC0-48BA-B815-5D0CB8C2A618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34CD656-2FC0-48BA-B815-5D0CB8C2A618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34CD656-2FC0-48BA-B815-5D0CB8C2A618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC8E914-EEF9-41D1-8243-12672A10CACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC8E914-EEF9-41D1-8243-12672A10CACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC8E914-EEF9-41D1-8243-12672A10CACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC8E914-EEF9-41D1-8243-12672A10CACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F265DDA5-3CFB-4A9F-9A32-FA417E132E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F265DDA5-3CFB-4A9F-9A32-FA417E132E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F265DDA5-3CFB-4A9F-9A32-FA417E132E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F265DDA5-3CFB-4A9F-9A32-FA417E132E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53ACAF45-FAAD-464C-A1B7-AACD97C73843}
+	EndGlobalSection
+EndGlobal

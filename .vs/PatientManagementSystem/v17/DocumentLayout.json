@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\PatientManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53DC5043-048D-44FA-8160-6078960C23B3}|PatientManagementSystem\\PatientManagementSystem.csproj|c:\\users\\admin\\source\\repos\\patientmanagementsystem\\patientmanagementsystem\\areas\\admin\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53DC5043-048D-44FA-8160-6078960C23B3}|PatientManagementSystem\\PatientManagementSystem.csproj|solutionrelative:patientmanagementsystem\\areas\\admin\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DC5043-048D-44FA-8160-6078960C23B3}|PatientManagementSystem\\PatientManagementSystem.csproj|c:\\users\\admin\\source\\repos\\patientmanagementsystem\\patientmanagementsystem\\areas\\admin\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53DC5043-048D-44FA-8160-6078960C23B3}|PatientManagementSystem\\PatientManagementSystem.csproj|solutionrelative:patientmanagementsystem\\areas\\admin\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DC5043-048D-44FA-8160-6078960C23B3}|PatientManagementSystem\\PatientManagementSystem.csproj|c:\\users\\admin\\source\\repos\\patientmanagementsystem\\patientmanagementsystem\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53DC5043-048D-44FA-8160-6078960C23B3}|PatientManagementSystem\\PatientManagementSystem.csproj|solutionrelative:patientmanagementsystem\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DC5043-048D-44FA-8160-6078960C23B3}|PatientManagementSystem\\PatientManagementSystem.csproj|c:\\users\\admin\\source\\repos\\patientmanagementsystem\\patientmanagementsystem\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53DC5043-048D-44FA-8160-6078960C23B3}|PatientManagementSystem\\PatientManagementSystem.csproj|solutionrelative:patientmanagementsystem\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DC5043-048D-44FA-8160-6078960C23B3}|PatientManagementSystem\\PatientManagementSystem.csproj|c:\\users\\admin\\source\\repos\\patientmanagementsystem\\patientmanagementsystem\\areas\\admin\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53DC5043-048D-44FA-8160-6078960C23B3}|PatientManagementSystem\\PatientManagementSystem.csproj|solutionrelative:patientmanagementsystem\\areas\\admin\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC8E914-EEF9-41D1-8243-12672A10CACE}|DLL\\DLL.csproj|c:\\users\\admin\\source\\repos\\patientmanagementsystem\\dll\\patientdll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC8E914-EEF9-41D1-8243-12672A10CACE}|DLL\\DLL.csproj|solutionrelative:dll\\patientdll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CD656-2FC0-48BA-B815-5D0CB8C2A618}|BLL\\BLL.csproj|c:\\users\\admin\\source\\repos\\patientmanagementsystem\\bll\\patientbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CD656-2FC0-48BA-B815-5D0CB8C2A618}|BLL\\BLL.csproj|solutionrelative:bll\\patientbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F265DDA5-3CFB-4A9F-9A32-FA417E132E1D}|DTO\\DTO.csproj|c:\\users\\admin\\source\\repos\\patientmanagementsystem\\dto\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F265DDA5-3CFB-4A9F-9A32-FA417E132E1D}|DTO\\DTO.csproj|solutionrelative:dto\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PatientManagementSystem\\PatientManagementSystem\\Areas\\Admin\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "PatientManagementSystem\\Areas\\Admin\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PatientManagementSystem\\PatientManagementSystem\\Areas\\Admin\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "PatientManagementSystem\\Areas\\Admin\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADgvxYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:56:58.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PatientManagementSystem\\PatientManagementSystem\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PatientManagementSystem\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PatientManagementSystem\\PatientManagementSystem\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PatientManagementSystem\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:56:57.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PatientManagementSystem\\PatientManagementSystem\\Areas\\Admin\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "PatientManagementSystem\\Areas\\Admin\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PatientManagementSystem\\PatientManagementSystem\\Areas\\Admin\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "PatientManagementSystem\\Areas\\Admin\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T08:46:48.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PatientManagementSystem\\PatientManagementSystem\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PatientManagementSystem\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PatientManagementSystem\\PatientManagementSystem\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PatientManagementSystem\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T08:43:25.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PatientManagementSystem\\PatientManagementSystem\\Areas\\Admin\\Views\\Patient\\Index.cshtml",
+              "RelativeDocumentMoniker": "PatientManagementSystem\\Areas\\Admin\\Views\\Patient\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PatientManagementSystem\\PatientManagementSystem\\Areas\\Admin\\Views\\Patient\\Index.cshtml",
+              "RelativeToolTip": "PatientManagementSystem\\Areas\\Admin\\Views\\Patient\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T08:33:33.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PatientManagementSystem\\BLL\\PatientBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\PatientBLL.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PatientManagementSystem\\BLL\\PatientBLL.cs",
+              "RelativeToolTip": "BLL\\PatientBLL.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:32:21.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PatientManagementSystem\\DTO\\PatientDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\PatientDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PatientManagementSystem\\DTO\\PatientDTO.cs",
+              "RelativeToolTip": "DTO\\PatientDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:31:23.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientDLL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PatientManagementSystem\\DLL\\PatientDLL.cs",
+              "RelativeDocumentMoniker": "DLL\\PatientDLL.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PatientManagementSystem\\DLL\\PatientDLL.cs",
+              "RelativeToolTip": "DLL\\PatientDLL.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADgvy4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:24:13.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
